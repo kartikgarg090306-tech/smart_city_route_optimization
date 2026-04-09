@@ -42,9 +42,12 @@ It includes:
 - Greedy Algorithms
 
 ---
-
 ##  How to Run
 
 ### Step 1: Compile
 ```bash
 g++ smart_city_route_optimization.cpp -o project
+
+##  Authors
+- Navya Garg
+- Kartik Garg
