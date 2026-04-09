@@ -1,7 +1,7 @@
 #  Smart City Route Optimization System
 
 ##  Overview
-This project implements multiple **Design and Analysis of Algorithms (DAA)** concepts in a real-world scenario of a smart city road network.
+This project implements multiple **Data Structures and Algorithms (DSA)** concepts in a real-world scenario of a smart city road network.
 
 It includes:
 - Graph Algorithms
