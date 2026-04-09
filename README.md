@@ -52,6 +52,7 @@ g++ smart_city_route_optimization.cpp -o project
 ---
 
 ### Authors
+---
 Kartik Garg
 ( https://github.com/kartikgarg090306-tech )
 ---
